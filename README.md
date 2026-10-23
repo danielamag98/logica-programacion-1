@@ -1,4 +1,4 @@
-#Ejercicios Lógica de programación
+# Ejercicios Lógica de programación
 
 Repositorio con ejercicios de lógica de programación en JavaScript, realizados durante el bootcamp de Desarrollador JavaScript de Generation. Cada ejercicio busca practicar el razonamiento paso a paso para resolver problemas: variables, condicionales, bucles, funciones y buenas prácticas.
 
