@@ -16,6 +16,7 @@ function conversionTemp(){
   const divError = document.getElementById("mensajeError");
   const divResultado = document.getElementById("resultado");
 
+  //vaciar o eliminar el contenido anterior
   divError.innerHTML="";
   divResultado.innerHTML="";
 
@@ -34,8 +35,8 @@ function conversionTemp(){
 
   //imprimir los resultados en navegacion
   divResultado.innerHTML = `
-    Grados Kelvin: ${kelvin.toFixed(2)} K<br>
-    Grados Fahrenheit: ${fahrenheit.toFixed(2)} °F
+    - Grados Kelvin: ${kelvin.toFixed(2)} K<br>
+    - Grados Fahrenheit: ${fahrenheit.toFixed(2)} °F
   `;
 
 }
