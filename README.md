@@ -11,3 +11,4 @@ Objetivo
 Tecnologías
 - HTML
 - JavaScript
+- CSS
